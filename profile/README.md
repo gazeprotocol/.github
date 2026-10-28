@@ -26,7 +26,7 @@
 | [`.github`](https://github.com/gazeprotocol/.github) | Org profile, contribution guides, issue forms | Live |
 | `community` | Call agendas, notes, recordings, proposals | Coming |
 | `docs` | How the protocol works, for watchers and creators | Coming |
-| `brand` | The Gaze mark, colors, type and usage rules | Coming |
+| [`brand`](https://github.com/gazeprotocol/brand) | Logos, colors, type and social art for partners and press | Live |
 
 ### Open source
 
