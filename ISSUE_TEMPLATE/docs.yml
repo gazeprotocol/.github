@@ -1,0 +1,16 @@
+name: Docs fix
+description: Something in the docs is wrong, unclear or missing.
+labels: ["type: docs"]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Page or file
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: What should change
+    validations:
+      required: true
