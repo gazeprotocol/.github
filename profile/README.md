@@ -12,7 +12,7 @@
   <br>
   <a href="https://gazeprotocol.com"><img alt="Web: gazeprotocol.com" src="https://img.shields.io/badge/web-gazeprotocol.com-ff6b2c?style=for-the-badge&labelColor=080604"></a>
   <a href="https://x.com/Gaze__Protocol"><img alt="X: @Gaze__Protocol" src="https://img.shields.io/badge/x-@gaze__protocol-ff6b2c?style=for-the-badge&labelColor=080604&logo=x&logoColor=f5f4f0"></a>
-  <a href="https://www.youtube.com/@gazeprotocol"><img alt="YouTube: @gazeprotocol" src="https://img.shields.io/youtube/channel/subscribers/UChl0kqMBBLrpNl5ejuAZ0sw?style=for-the-badge&labelColor=080604&color=ff6b2c&label=youtube&logo=youtube&logoColor=f5f4f0"></a>
+  <a href="https://www.youtube.com/@gazeprotocol"><img alt="YouTube: @gazeprotocol" src="https://img.shields.io/badge/youtube-@gazeprotocol-ff6b2c?style=for-the-badge&labelColor=080604&logo=youtube&logoColor=f5f4f0"></a>
   <img alt="Community chat: coming soon" src="https://img.shields.io/badge/chat-coming_soon-8a8680?style=for-the-badge&labelColor=080604">
 </p>
 
